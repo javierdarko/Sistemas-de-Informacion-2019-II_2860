@@ -1,12 +1,13 @@
 
 
 body {
-	background: #648880;
-    background: linear-gradient(to right, #f6f1d3, #648880 85%, #293f50);
-	font-family: PT Mono, monospace;
+	margin: 0;
+	min-height: 100vh;
+	background-image: :url(flogin.jpeg);
+	background-repeat: no-repeat;
+	background-position: center;
 	background-size: cover;
-	color: black;
-	text-align: center;
+	background-attachment: fixed;
 }
 
 
