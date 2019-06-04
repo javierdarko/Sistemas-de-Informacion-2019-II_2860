@@ -1,0 +1,40 @@
+
+
+body {
+	background: #648880;
+    background: linear-gradient(to right, #f6f1d3, #648880 85%, #293f50);
+	font-family: PT Mono, monospace;
+	background-size: cover;
+	color: black;
+	text-align: center;
+}
+
+
+
+h1 {
+	font-family: PT Mono, monospace;
+	background-size: cover;
+	color: black;
+	text-align: center;
+}
+
+ 
+     .redondo{
+     border-radius: 5px;
+     width: 250px;
+     padding: 5px;
+   }
+
+
+}
+.contenedor{
+	position: relative;
+	right: 100px;
+	top: 150px;
+	width: 250px;
+	height:  120px;
+	text-align: center;
+	background-color: rgba(52,73,94,0.5);
+	border-radius: 30px;
+	
+}
